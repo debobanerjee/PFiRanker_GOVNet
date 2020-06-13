@@ -1,1 +1,1 @@
-# PFiRanker_GOVNet
+# PiRanker_NTGNN
